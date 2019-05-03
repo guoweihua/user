@@ -9,3 +9,7 @@ import (
 func main() {
 	fmt.Println(stringutil.Reverse("!oG ,olleH"))
 }
+
+func hello() {
+	fmt.Println("Hello")
+}
